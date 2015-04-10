@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 10 11:14:50 OMST 2015
+jms-4.0.0.CR1-aq-javadoc.jar>=
+jms-4.0.0.CR1-aq-sources.jar>=
+jms-4.0.0.CR1-aq.jar>=
+jms-4.0.0.CR1-aq.pom>=

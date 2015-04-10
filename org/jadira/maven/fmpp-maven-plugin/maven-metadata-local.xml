@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jadira.maven</groupId>
+  <artifactId>fmpp-maven-plugin</artifactId>
+  <versioning>
+    <latest>4.0.0.CR1-aq</latest>
+    <release>4.0.0.CR1-aq</release>
+    <versions>
+      <version>4.0.0.CR1-aq</version>
+    </versions>
+    <lastUpdated>20150410051446</lastUpdated>
+  </versioning>
+</metadata>
